@@ -21,8 +21,14 @@ R and Statistics work on Car data
 
 ## T-Tests on Suspension Coils ##
 
-* **Summary of T-tests:** 
+* **Summary of T-tests:** As the T-test Across all lots shows, with a t-value of -1.8931, there is a small statical difference between the population mean of 1500 PSI and the three lots tested, with the mean for the three lots coming in slightly below 1500 PSI. For Lot 1, there was no statistical difference, and its mean was 1500, however for Lot 2 there is a slight statistical difference and its mean was above 1500 while Lot 3 had the largest t-value and difference from the population mean coming it at 1496.14 PSI. The overall difference of the three lots vs. the population mean, however, was rather small.
+
+
+ **T-test Across All Lots** 
+![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/T-test_for_total_sample.png)
+
+**T-tests Across Individual Lots ** 
+![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/T-test_by_Lot.png)
 
 ## Study Design: MechaCar vs Competition
-![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/T-test_for_total_sample.png)
-![]()
+
