@@ -30,5 +30,14 @@ R and Statistics work on Car data
 **T-tests Across Individual Lots ** 
 ![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/T-test_by_Lot.png)
 
-## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition ##
+
+Testing MechaCar's environmental impact vs. the Competition.
+
+* **What metrics are you going to test?** To test MechaCar vs. the competitor (Ford, Volkswagen, and Chevrolet) the best metrics to test given most consumers today are environmentally conscious in addition to caring about price and performance would be fuel efficiency, emissions, and percentage of the car that is recyclable. 
+* **What is the null hypothesis or alternative hypothesis?** The null hypothesis for this environmentally conscious look at MechaCar vs. the competition would be  MechaCar is not statistically more green then its competitors on the selected green criteria. The alternative hypothesis would be that it is statically different, although that could mean it is either more “green” or “less”. 
+* **What statistical test would you use to test the hypothesis? And why?** All of the metrics to test how green MechaCar is vs. the competition is based on continuous type of data. Therefore, linear regression tests, both simple and multiple, would be ideal to use on this data. If different types/models of MechaCars want to use to be used a chi-squared test could be used because that requires categorial data.
+* **What data is needed to run the statistical test?** Data that is needed to run these tests would be both highway and city fuel miles per gallon, CO2 emissions per gallon of fuel, and the types of materials used to build the cars and the ability of said materials to be recycled for similar vehicle types to MechaCar across major American and European car brands.
+
+
 
