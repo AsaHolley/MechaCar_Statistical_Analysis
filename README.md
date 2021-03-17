@@ -23,5 +23,5 @@ R and Statistics work
 * **Summary of T-tests:** 
 
 ## Study Design: MechaCar vs Competition
-![]()
+![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/T-test_for_total_sample.png)
 ![]()
