@@ -16,3 +16,12 @@ R and Statistics work
 ![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/PSI%20Summary.png)
 
 1[](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/Lot%20Summary.png)
+
+
+## T-Tests on Suspension Coils ##
+
+* **Summary of T-tests:** 
+
+## Study Design: MechaCar vs Competition
+![]()
+![]()
