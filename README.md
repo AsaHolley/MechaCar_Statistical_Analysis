@@ -16,7 +16,7 @@ R and Statistics work on Car data
 
 ![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/PSI%20Summary.png)
 
-1[](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/Lot%20Summary.png)
+![](https://github.com/AsaHolley/MechaCar_Statistical_Analysis/blob/main/Lot%20Summary.png)
 
 
 ## T-Tests on Suspension Coils ##
